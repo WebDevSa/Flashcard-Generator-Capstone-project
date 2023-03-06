@@ -8,63 +8,68 @@ https://flashcard-generator-app.netlify.app/
 
 ### Watch Youtube video at;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+video link:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Install dependencies
 
-### `npm test`
+### `npm install`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+start the server
 
-### `npm run build`
+### `npm run start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `Tech stack`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Reactjs( React Router ),
+Redux & Redux Toolkit,
+TailwindCSS,
+React-icons,
+React Formik & Yup,
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## About The Project (Flashcard )
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is created with mainly Reactjs , In this project we have three pages
+1) create Flashcard page 
+2) My Flashcard page 
+3) Flashcad Details page  with  share page 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+create fashcard page: In create Flashcard page I have used  Formik for creating input boxes and for the validation used Yup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+My Flashcard page: For the My flashcard page i have  saparately designed My Flashcard UI component and did maping the UI and input data in My flashcard
 
-## Learn More
+FlashcardDetails page : in the page the code has been written for displaying Number of cards and details of cards and in the page  also created share popup slide with all social media Links
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### How To Use
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Open flashcard generator will clicking deployment Link
 
-### Code Splitting
+Click on the "create New" link and fill up all the input boxes without any Errors and click on "create" button
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+For the viewing Currently created flashcard click on "My flashcard" link this will show all flashcard you created recently
 
-### Analyzing the Bundle Size
+For the Viewing Details of flashcard click on "view card" button showes on the flashcard this will show the details of flashcard and number of cards with is's description and also we have "share" button to copy link with all social media icons(Links) working
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Features
+Add More Input Box (Button)
+Delete button (Button)
+Edit Input box (Button)
+View cards (Button)
+Upload Image (Button)
+Share (Copy Clipboard button)
+Social Media Buttons ( Working )
+See all (Button)
+Back Button
+close button for closing share page.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Skills
 
-### Advanced Configuration
+Javascript, HTML, CSS, Reactjs...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Project Created With
 
-### Deployment
+Individual project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

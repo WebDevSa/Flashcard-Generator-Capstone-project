@@ -8,7 +8,7 @@ https://flashcard-generator-app.netlify.app/
 
 ### Watch Youtube video at;
 
-video link:
+video link: https://youtu.be/hI8Qw_o6WBo
 
 Install dependencies
 

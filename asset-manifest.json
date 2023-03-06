@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Flashcard-Generator-Capstone-project/static/css/main.b839412c.css",
+    "main.js": "/Flashcard-Generator-Capstone-project/static/js/main.3820238c.js",
+    "static/js/787.5d1e09b3.chunk.js": "/Flashcard-Generator-Capstone-project/static/js/787.5d1e09b3.chunk.js",
+    "static/media/tab-hold-e.png": "/Flashcard-Generator-Capstone-project/static/media/tab-hold-e.5e2e0c74ea414d40e447.png",
+    "static/media/whatsapp-logo-.png": "/Flashcard-Generator-Capstone-project/static/media/whatsapp-logo-.996b65a87232ed054da1.png",
+    "static/media/light-gray-.jpg": "/Flashcard-Generator-Capstone-project/static/media/light-gray-.f257e2f781c08e7b7822.jpg",
+    "static/media/Twitter-logo.svg.webp": "/Flashcard-Generator-Capstone-project/static/media/Twitter-logo.svg.84a72906c113fe82d1d0.webp",
+    "static/media/LinkedIn-Icon-.svg": "/Flashcard-Generator-Capstone-project/static/media/LinkedIn-Icon-.fd52e68ad59ac76b8bef39e880205ff4.svg",
+    "index.html": "/Flashcard-Generator-Capstone-project/index.html",
+    "main.b839412c.css.map": "/Flashcard-Generator-Capstone-project/static/css/main.b839412c.css.map",
+    "main.3820238c.js.map": "/Flashcard-Generator-Capstone-project/static/js/main.3820238c.js.map",
+    "787.5d1e09b3.chunk.js.map": "/Flashcard-Generator-Capstone-project/static/js/787.5d1e09b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b839412c.css",
+    "static/js/main.3820238c.js"
+  ]
+}

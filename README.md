@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployment
 
-In the project directory, you can run:
+https://flashcard-generator-app.netlify.app/
 
 ### Watch Youtube video at;
 
